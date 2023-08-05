@@ -1,0 +1,21 @@
+.bg-container {
+  background-color: #ffc2a0;
+  background-size: cover;
+  width: 100%;
+  padding: 40px;
+}
+
+.todo-card {
+  width: 100%;
+  padding: 25px;
+  background-color: #ffffff;
+  background-size: cover;
+  border-radius: 20px;
+}
+
+.main-heading {
+  font-family: Roboto;
+  font-size: 40px;
+  text-align: center;
+  color: #ff8542;
+}

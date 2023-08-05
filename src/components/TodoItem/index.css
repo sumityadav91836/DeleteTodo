@@ -1,0 +1,24 @@
+.todo-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.list-style-type {
+  list-style-type: none;
+}
+
+.todo-name {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.btn {
+  height: 35px;
+  width: 80px;
+  border-radius: 8px;
+  border: 1px solid #ff0b37;
+  color: #ff0b37;
+  margin-top: auto;
+  margin-bottom: auto;
+  cursor: pointer;
+}
